@@ -11,7 +11,36 @@ public class Githubtest {
 		
 
 		System.out.println("Du machst auch alles für Werkzeug ;)");
+<<<<<<< HEAD
 	
+=======
+		System.out.println("OKM");
+		System.out.println("Waldfee");
+		
+		System.out.println("Du machst auch alles für ne Butterbreze mit Schmalz ;)");
+		
+		System.out.println(" ");
+
+
+
+		System.out.println("KONFLIKT!!!!!!!!!!!");
+		System.out.println("wasn etz?");
+
+		System.out.println("KONFLIKT!!!!!!!!!!!");
+		
+		System.out.println("TABULARASA");
+		
+		
+		System.out.println("Wurstbrot");
+		
+		System.out.println("DEBBALA");
+		
+		
+		
+		System.out.println("kjdvgkisdufbvgike");
+		System.out.println(" ");
+		
+>>>>>>> branch 'Workspace' of https://github.com/B-Mex/GemischtesHack
 		
 	}
 
