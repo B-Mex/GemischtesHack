@@ -15,6 +15,8 @@ public class Githubtest {
 
 		System.out.println("KONFLIKT!!!!!!!!!!!");
 		
+		System.out.println("TABULARASA");
+		
 	}
 
 }
