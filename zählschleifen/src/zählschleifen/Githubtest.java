@@ -19,18 +19,19 @@ public class Githubtest {
 		System.out.println(" ");
 
 
-<<<<<<< HEAD
 
 		System.out.println("KONFLIKT!!!!!!!!!!!");
 		System.out.println("wasn etz?");
-=======
+
 		System.out.println("KONFLIKT!!!!!!!!!!!");
 		
 		System.out.println("TABULARASA");
 		
 		
 		System.out.println("Wurstbrot");
->>>>>>> branch 'Workspace' of https://github.com/B-Mex/GemischtesHack.git
+		
+		
+		
 		
 	}
 
