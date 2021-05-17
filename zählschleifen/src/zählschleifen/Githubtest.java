@@ -1,4 +1,4 @@
-package zÃ¤hlschleifen;
+package zählschleifen;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ public class Githubtest {
 
 		Scanner input=new Scanner(System.in);
 		
-		System.out.println("Du machst auch alles fÃ¼r Socken ;)");
+		System.out.println("Du machst auch alles für Werkzeug ;)");
 	}
 
 }
