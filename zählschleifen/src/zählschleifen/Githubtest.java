@@ -10,6 +10,7 @@ public class Githubtest {
 		Scanner input=new Scanner(System.in);
 		
 		System.out.println("Du machst auch alles für Werkzeug ;)");
+		System.out.println("OKM");
 	}
 
 }
