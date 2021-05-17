@@ -9,10 +9,14 @@ public class Githubtest {
 
 		Scanner input=new Scanner(System.in);
 		
+<<<<<<< HEAD
 		System.out.println("Du machst auch alles für Werkzeug ;)");
 		System.out.println("OKM");
 		System.out.println("Waldfee");
 		
+=======
+		System.out.println("Du machst auch alles für ne Butterbreze mit Schmalz ;)");
+>>>>>>> branch 'main' of https://github.com/B-Mex/GemischtesHack.git
 		
 	}
 
