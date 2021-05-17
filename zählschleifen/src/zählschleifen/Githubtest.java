@@ -11,10 +11,9 @@ public class Githubtest {
 		
 
 		System.out.println("Du machst auch alles für Werkzeug ;)");
-		System.out.println("OKM");
-		System.out.println("Waldfee");
-		
-		System.out.println("Du machst auch alles für ne Butterbreze mit Schmalz ;)");
+
+
+		System.out.println("KONFLIKT!!!!!!!!!!!");
 		
 	}
 
